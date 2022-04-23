@@ -1,0 +1,10 @@
+C:\Users\ademh\source\repos\CagriMerkeziOtomasyonu\CagriMerkeziOtomasyonu\bin\Debug\CagriMerkeziOtomasyonu.exe.config
+C:\Users\ademh\source\repos\CagriMerkeziOtomasyonu\CagriMerkeziOtomasyonu\bin\Debug\CagriMerkeziOtomasyonu.exe
+C:\Users\ademh\source\repos\CagriMerkeziOtomasyonu\CagriMerkeziOtomasyonu\bin\Debug\CagriMerkeziOtomasyonu.pdb
+C:\Users\ademh\source\repos\CagriMerkeziOtomasyonu\CagriMerkeziOtomasyonu\obj\Debug\CagriMerkeziOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ademh\source\repos\CagriMerkeziOtomasyonu\CagriMerkeziOtomasyonu\obj\Debug\CagriMerkeziOtomasyonu.Form1.resources
+C:\Users\ademh\source\repos\CagriMerkeziOtomasyonu\CagriMerkeziOtomasyonu\obj\Debug\CagriMerkeziOtomasyonu.Properties.Resources.resources
+C:\Users\ademh\source\repos\CagriMerkeziOtomasyonu\CagriMerkeziOtomasyonu\obj\Debug\CagriMerkeziOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ademh\source\repos\CagriMerkeziOtomasyonu\CagriMerkeziOtomasyonu\obj\Debug\CagriMerkeziOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ademh\source\repos\CagriMerkeziOtomasyonu\CagriMerkeziOtomasyonu\obj\Debug\CagriMerkeziOtomasyonu.exe
+C:\Users\ademh\source\repos\CagriMerkeziOtomasyonu\CagriMerkeziOtomasyonu\obj\Debug\CagriMerkeziOtomasyonu.pdb
